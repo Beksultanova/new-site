@@ -1,6 +1,14 @@
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
 p {
   color: red;
 }
 .img {
   width: 200px;
+}
+.footer {
+  background-color: blueviolet;
+  color: white;
 }
